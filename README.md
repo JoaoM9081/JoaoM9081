@@ -5,7 +5,10 @@
 Hi, my name is João Marcos and I am a software engineering student. I chose this field because I have a passion for technology and innovation, and I want to contribute to the development of solutions that can improve people’s lives. I really enjoy learning new things, especially about programming and artificial intelligence. I hope to have a great future with this profession.
 
 ## My Stats 💻
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoM9081&show_icons=true&theme=dark" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoM9081&hide_progress=true_icons=true&theme=dark"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoM9081&hide_progress=true_icons=true&theme=dark"/>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoM9081&show_icons=true&theme=dark" width="500px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoM9081&hide_progress=true_icons=true&theme=dark" width="500px" /> 
+</p>
 
 ## Technologies that I use in my daily life 📖
 
