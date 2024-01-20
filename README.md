@@ -6,8 +6,8 @@ Hi, my name is João Marcos and I am a software engineering student. I chose thi
 
 ## My Stats 💻
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoM9081&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoM9081&hide_progress=true_icons=true&theme=dark"/>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoM9081&show_icons=true&theme=merko"/>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoM9081&hide_progress=true_icons=true&theme=merko"/>
 </div>
 
 ## Technologies that I use in my daily life 📖
