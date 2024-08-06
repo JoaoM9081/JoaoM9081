@@ -2,7 +2,7 @@
 
 ## About me 🧑🏻‍💻
 
-Hi, my name is João Marcos and I am a software engineering student. I chose this field because I am passionate about technology and innovation. I really enjoy learning new things, especially about programming and artificial intelligence. I hope to have a great future in this profession.
+Hi, my name`s João Marcos and I`m a software engineering student. I chose this field because I am passionate about technology and innovation. I really enjoy learning new things, especially about programming and artificial intelligence.
 
 ## My Stats 💻
 <div>
