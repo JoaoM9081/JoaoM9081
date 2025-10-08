@@ -1,11 +1,11 @@
 # João Marcos • Software Engineering 🚀
 
-Sou estudante de Engenharia de Software, com paixão por criar soluções simples e eficazes. Tenho experiência com front-end (React + TypeScript), back-end (Java/Spring) e análise de dados (Python). Gosto de aprender rapidamente e transformar ideias em produtos reais e funcionais.
+Sou estudante de Engenharia de Software, apaixonado por criar soluções simples e eficazes. Atuo como desenvolvedor Full Stack, com foco em APIs, integrações, automações e dados. Aprendo rápido e transformo ideias em produtos úteis e funcionais, buscando equilíbrio entre desempenho, confiabilidade e evolução contínua.
 
 ## Sobre mim
-- 🎓 Estudante de Engenharia de Software
-- 🔭 Interesses: React, TypeScript, Java/Spring Boot, PostgreSQL, Python, Docker
-- 🤖 Curiosidade eterna por IA aplicada e automações úteis
+* 🎓 Estudante de Engenharia de Software
+* 🔭 Interesses: React, Spring Boot, PostgreSQL, Python, Docker
+* 🤖 Curiosidade eterna por IA aplicada e automações úteis
 
 ## Tech Stack
 <div style="display: inline_block"><br/>
