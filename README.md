@@ -1,6 +1,6 @@
 # João Marcos • Software Engineering 🚀
 
-Sou estudante de Engenharia de Software, apaixonado por construir soluções úteis e simples. Interesso-me por front-end (React + TS), back-end (Java/Spring) e dados (Python). Gosto de aprender rápido, escrever código claro e transformar ideias em produtos.
+Sou estudante de Engenharia de Software, com paixão por criar soluções simples e eficazes. Tenho experiência com front-end (React + TypeScript), back-end (Java/Spring) e análise de dados (Python). Gosto de aprender rapidamente e transformar ideias em produtos reais e funcionais.
 
 ## Sobre mim
 - 🎓 Estudante de Engenharia de Software
