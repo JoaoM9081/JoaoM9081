@@ -25,6 +25,6 @@ I’m a Software Engineering student and a full-stack developer focusing on APIs
 
 ## GitHub Stats
 <div align="center">
-<picture>
-  <div> <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoM9081&show_icons=true&theme=merko"/> <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoM9081&hide_progress=true_icons=true&theme=merko"/> </div>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=JoaoM9081&show_icons=true&theme=merko" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoM9081&layout=compact&langs_count=10&theme=merko" />
 </div>
