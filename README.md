@@ -1,11 +1,12 @@
 # João Marcos • Software Engineering 🚀
 
-Sou estudante de Engenharia de Software, apaixonado por criar soluções simples e eficazes. Atuo como desenvolvedor Full Stack, com foco em APIs, integrações, automações e dados. Aprendo rápido e transformo ideias em produtos úteis e funcionais, buscando equilíbrio entre desempenho, confiabilidade e evolução contínua.
+I’m a Software Engineering student and a full-stack developer focusing on APIs, automation, web development, and data. I’m committed to continuous learning, exploring new technologies, and improving my knowledge.
 
-## Sobre mim
-* 🎓 Estudante de Engenharia de Software
-* 🔭 Interesses: React, Spring Boot, PostgreSQL, Python, Docker
-* 🤖 Curiosidade eterna por IA aplicada e automações úteis
+## About me
+
+* 🎓 Software Engineering student
+* 🔭 Current interests: React, Spring Boot, PostgreSQL, Python, Docker
+* 🤖 Curious about applied AI and automation with practical impact
 
 ## Tech Stack
 <div style="display: inline_block"><br/>
@@ -27,4 +28,3 @@ Sou estudante de Engenharia de Software, apaixonado por criar soluções simples
 <picture>
   <div> <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoM9081&show_icons=true&theme=merko"/> <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoM9081&hide_progress=true_icons=true&theme=merko"/> </div>
 </div>
-
